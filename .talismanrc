@@ -1,0 +1,6 @@
+#allowed_patterns:
+#  - ".* talisman-ignore-line"
+#  - ".* pragma: allowlist secret"
+#custom_patterns:
+#  - "PASSWORD"
+version: "1.0"
